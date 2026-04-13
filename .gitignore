@@ -1,0 +1,42 @@
+# Dataset — too large for GitHub (use Kaggle link instead)
+dataset/
+
+# Generated CSV from landmark extraction
+*.csv
+
+# Trained model files
+*.keras
+*.pt
+*.pth
+*.h5
+
+
+# MediaPipe model file
+*.task
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# PyCharm project files
+.idea/
+
+# Virtual environment
+venv/
+env/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+ws_server.py
+*.iml
+*.html
+*.glb
+*.pkl
+*.png
